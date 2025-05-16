@@ -1,2 +1,2 @@
 # music
-Music is Fun, Life
+### Music is Fun, Music is Life
